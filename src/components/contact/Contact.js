@@ -71,7 +71,7 @@ const Contact = () => {
                 </span>
                 <div>
                   <h4 className="fw-bold mt-3 mb-2">LinkedIn</h4>
-                  <p>Más dtalles de mi Perfil.</p>
+                  <p>Más detalles de mi Perfil.</p>
                 </div>
               </div>
               <div className="col d-flex align-items-start">

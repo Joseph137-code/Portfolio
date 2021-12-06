@@ -27,7 +27,7 @@ export const projects = [
     }, 
     {
         'título': 'Blog Tenis',
-        'tecno':'Creado con html, css y semantic UI"', 
+        'tecno':'Creado con HTML, CSS y semantic UI"', 
         'link':'https://safe-shore-36876.herokuapp.com/blog', 
     },
 ]
